@@ -1,0 +1,55 @@
+{
+    "conditions":[
+        {
+            "name":"Thyroid",
+            "imagesrc":"Thyroid.jpg",
+            "symptoms":[
+                "Fatigue",
+                "Weight loss or gain",
+                "Dry Skin",
+                "Muscle Weakness",
+                "Irregular menstrual periods"
+            ],
+            "prevention":[
+                "Eat a balance diet",
+                "Exercise regularly",
+                "Get regular check-ups"
+            ],
+            "treatment":"Medication like levothyroxine may be prescribed by a doctor."
+        },
+        {
+            "name":"Diabetes",
+            "imagesrc":"Diabetes.jpg",
+            "symptoms":[
+                "Frequent Urination",
+                "Increased thirst",
+                "Blurred vision",
+                "Fatigue",
+                "Slow healing of cuts or sores"            
+            ],
+            "prevention":[
+                "Maintain a healthy weight",
+                "Follow a balanced diet",
+                "Regular exercise"
+            ],
+            "treatment":"Management includes medication,insulin therapy, and lifestyle changes."
+        },
+        {
+            "name":"High Blood Pressure",
+            "imagesrc":"Blood Pressure.jpg",
+            "symptoms":[
+                "Headaches",
+                "Shortness of breath",
+                "Chest pain",
+                "Dizziness",
+                "Blurred or double Vision"
+            ],
+            "prevention":[
+                "reduce salt intake",
+                "Exercise regularly",
+                "Maintain a healthy weight"
+            ],
+            "treatment":"Medication like ACE inhibitors or diuretics may be prescribed"
+        }
+    ]
+}
